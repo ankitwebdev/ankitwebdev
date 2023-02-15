@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/rkankit520/">
   <img align="left" alt="Ankit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="discordapp.com/users/1067735494965870603">
+<a href="https://www.discordapp.com/users/1067735494965870603">
   <img align="left" alt="Ankit's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/rkankit520">
