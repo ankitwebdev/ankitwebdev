@@ -21,7 +21,7 @@ hi, i'm [Ankit Sharma](https://ankitsharma.eu/), a passionate self-taught full s
 In my free time, I love experimenting with new coding techniques and exploring the latest tools and platforms. Whether I'm working on a personal project or collaborating with a team, I approach every challenge with creativity, curiosity, and a drive to achieve the best possible outcome.
 
 
-  <img align="right" alt="GIF" src="https://github.com/ankitwebdev/ankitwebdev/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/ankitwebdev/ankitwebdev/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:ankitwebdev@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
