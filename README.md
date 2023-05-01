@@ -12,7 +12,7 @@
   <img align="left" alt="Ankit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ankitwebdev.ankitwebdev)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="ankitwebdev" /> </p>
 
 <br />
 
