@@ -71,6 +71,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ankitwebdev&show_icons=true&theme=gotham" alt="ankitsharma" />-->
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitwebdev&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwebdev&layout=donut)
 
 
 
