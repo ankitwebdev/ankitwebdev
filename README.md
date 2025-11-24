@@ -16,7 +16,7 @@
 
 <br />
 
-hi, i'm [Ankit Sharma](https://ankitsharma.eu/), a passionate self-taught full stack web developer. As a developer, I pride myself on my ability to work collaboratively with teams to turn complex ideas into simple, elegant solutions. I am dedicated to staying up-to-date with the latest trends and technologies in the field, and I am always striving to improve my skills and expand my knowledge.
+hi, i'm [Ankit Sharma](https://ankitwebdev.github.io/mywebsite/), a passionate self-taught full stack web developer. As a developer, I pride myself on my ability to work collaboratively with teams to turn complex ideas into simple, elegant solutions. I am dedicated to staying up-to-date with the latest trends and technologies in the field, and I am always striving to improve my skills and expand my knowledge.
 
 In my free time, I love experimenting with new coding techniques and exploring the latest tools and platforms. Whether I'm working on a personal project or collaborating with a team, I approach every challenge with creativity, curiosity, and a drive to achieve the best possible outcome.
 
